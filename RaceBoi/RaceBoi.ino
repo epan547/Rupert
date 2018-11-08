@@ -1,4 +1,7 @@
-// This code should help you get started with your balancing robot.
+// This code should help your Rocky complete the Sprint Challenge.
+// Make sure you calibrate the angle to read 0 in the Serial Monitor when it's standing straight.
+
+
 // The code performs the following steps
 // Calibration phase:
 //  In this phase the robot should be stationary lying on the ground.
